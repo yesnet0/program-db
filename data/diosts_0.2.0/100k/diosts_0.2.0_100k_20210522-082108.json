@@ -1,0 +1,3778 @@
+[
+  {
+    "security_txt_domain": "theguardian.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://theguardian.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "contact_url": "mailto:appsec@theguardian.com",
+    "pgp_key": "https://www.theguardian.com/pgp/PublicKeys/Guardian%20Application-Security.pub.txt",
+    "hiring": "https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5B%5D=\u0026query=information+security\u0026submit=Search+Jobs",
+    "securitytxt_url": "https://www.theguardian.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "bbc.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bbc.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://www.bbc.com/backstage/security-disclosure-policy/",
+    "contact_url": "mailto:security@bbc.co.uk",
+    "hiring": "https://careerssearch.bbc.co.uk/jobs/search"
+  },
+  {
+    "security_txt_domain": "doubleclick.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://doubleclick.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "vimeo.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://vimeo.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://hackerone.com/vimeo/",
+    "contact_url": "https://hackerone.com/vimeo/reports/new/",
+    "hall_of_fame": "https://hackerone.com/vimeo/thanks/",
+    "hiring": "https://vimeo.com/jobs#engineering"
+  },
+  {
+    "security_txt_domain": "github.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://github.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://bounty.github.com",
+    "contact_url": "https://hackerone.com/github",
+    "hall_of_fame": "https://bounty.github.com/bounty-hunters.html",
+    "securitytxt_url": "https://github.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "dropbox.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://dropbox.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://hackerone.com/dropbox/",
+    "contact_url": "https://hackerone.com/dropbox/",
+    "hall_of_fame": "https://hackerone.com/dropbox/thanks",
+    "hiring": "https://www.dropbox.com/jobs/search?q=security"
+  },
+  {
+    "security_txt_domain": "whatsapp.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://whatsapp.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/areas-of-work/security/"
+  },
+  {
+    "security_txt_domain": "google.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "paypal.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://paypal.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://hackerone.com/paypal?view_policy=true",
+    "contact_url": "https://hackerone.com/paypal",
+    "hiring": "https://jobsearch.paypal-corp.com/search?keywords=Cyber",
+    "securitytxt_url": "https://www.paypalobjects.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "google.com.hk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.hk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:15Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "wordpress.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wordpress.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "pgp_key": "https://automattic.com/security/pgp-key/",
+    "securitytxt_url": "https://automattic.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "canva.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://canva.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://bugcrowd.com/canva",
+    "contact_url": "https://bugcrowd.com/canva",
+    "hall_of_fame": "https://bugcrowd.com/canva/hall-of-fame",
+    "hiring": "https://www.canva.com/careers/jobs/?specialty=security",
+    "securitytxt_url": "https://canva.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "linkedin.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://linkedin.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://www.linkedin.com/help/linkedin/answer/62924",
+    "contact_url": "mailto:security@linkedin.com",
+    "pgp_key": "https://www.linkedin.com/help/linkedin/answer/79676",
+    "securitytxt_url": "https://www.linkedin.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "bit.ly",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bit.ly/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "contact_url": "security@bitly.com",
+    "pgp_key": "https://bitly.com/security_pgp.txt"
+  },
+  {
+    "security_txt_domain": "bbc.co.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bbc.co.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://www.bbc.com/backstage/security-disclosure-policy/",
+    "contact_url": "mailto:security@bbc.co.uk",
+    "hiring": "https://careerssearch.bbc.co.uk/jobs/search"
+  },
+  {
+    "security_txt_domain": "google.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "flickr.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://flickr.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "contact_url": "https://hackerone.com/flickr"
+  },
+  {
+    "security_txt_domain": "issuu.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://issuu.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://issuu.com/responsible-disclosure",
+    "contact_url": "mailto:security@issuu.com",
+    "hall_of_fame": "https://issuu.com/responsible-disclosure#hall-of-fame"
+  },
+  {
+    "security_txt_domain": "tumblr.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://tumblr.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "hiring": "https://www.tumblr.com/jobs"
+  },
+  {
+    "security_txt_domain": "google.co.in",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.in/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:16Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.br",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.br/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:17Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "opera.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://opera.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:17Z",
+    "policy_url": "https://security.opera.com/policy",
+    "contact_url": "https://security.opera.com",
+    "hall_of_fame": "https://security.opera.com/hall-of-fame"
+  },
+  {
+    "security_txt_domain": "wp.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wp.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:18Z",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "pgp_key": "https://automattic.com/security/pgp-key/",
+    "securitytxt_url": "https://automattic.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "google.co.jp",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.jp/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:18Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "wix.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wix.com/security.txt",
+    "last_update": "2021-05-22T08:21:18Z",
+    "contact_url": "mailto:security-report@wix.com"
+  },
+  {
+    "security_txt_domain": "creativecommons.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://creativecommons.org/security.txt",
+    "last_update": "2021-05-22T08:21:18Z",
+    "contact_url": "https://openbugbounty.org/bugbounty/CcSecRep/",
+    "securitytxt_url": "https://creativecommons.org/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "walmart.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://walmart.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:19Z",
+    "policy_url": "https://corporate.walmart.com/privacy-security",
+    "contact_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "hiring": "https://careers.walmart.com",
+    "securitytxt_url": "https://walmart.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.co.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:19Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "livejasmin.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://livejasmin.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:19Z",
+    "contact_url": "mailto:itsecuritypublic@doclerholding.com",
+    "hiring": "https://doclerholding.recruitee.com/",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.cn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:20Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "bitly.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bitly.com/security.txt",
+    "last_update": "2021-05-22T08:21:20Z",
+    "contact_url": "security@bitly.com",
+    "pgp_key": "https://bitly.com/security_pgp.txt"
+  },
+  {
+    "security_txt_domain": "google.fr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.fr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:20Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "w3.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://w3.org/security.txt",
+    "last_update": "2021-05-22T08:21:20Z",
+    "contact_url": "mailto:openbugbounty@w3.org"
+  },
+  {
+    "security_txt_domain": "themeforest.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://themeforest.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:21Z",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "security_txt_domain": "unsplash.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://unsplash.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:21Z",
+    "contact_url": "support@unsplash.com",
+    "hall_of_fame": "https://unsplash.com/security",
+    "pgp_key": "https://keybase.io/elcuervo/pgp_keys.asc"
+  },
+  {
+    "security_txt_domain": "google.ru",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ru/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:21Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.es",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.es/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:21Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "grammarly.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://grammarly.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:22Z",
+    "policy_url": "https://hackerone.com/grammarly",
+    "contact_url": "security@grammarly.com",
+    "hall_of_fame": "https://hackerone.com/grammarly/thanks",
+    "hiring": "https://www.grammarly.com/jobs/"
+  },
+  {
+    "security_txt_domain": "google.it",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.it/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:22Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "binance.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://binance.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:22Z",
+    "policy_url": "https://bugcrowd.com/binance",
+    "contact_url": "security@binance.com",
+    "hall_of_fame": "https://bugcrowd.com/binance/hall-of-fame",
+    "hiring": "https://www.binance.com/Careers.html"
+  },
+  {
+    "security_txt_domain": "investopedia.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://investopedia.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:23Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "shopify.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://shopify.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:23Z",
+    "policy_url": "https://hackerone.com/shopify",
+    "contact_url": "https://www.shopify.com/security-response",
+    "hall_of_fame": "https://hackerone.com/shopify/thanks",
+    "pgp_key": "https://www.shopify.com/shopify-security.pub",
+    "hiring": "https://www.shopify.com/careers"
+  },
+  {
+    "security_txt_domain": "line.me",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://line.me/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:23Z",
+    "policy_url": "https://bugbounty.linecorp.com/en/terms_of_use/",
+    "contact_url": "https://bugbounty.linecorp.com/en/apply/",
+    "hall_of_fame": "https://bugbounty.linecorp.com/en/halloffame/",
+    "hiring": "https://linecorp.com/ja/career/position/498"
+  },
+  {
+    "security_txt_domain": "google.com.sg",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.sg/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:24Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ca",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ca/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:24Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "padlet.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://padlet.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:24Z",
+    "contact_url": "mailto:hello@padlet.com",
+    "hiring": "https://padlet.jobs"
+  },
+  {
+    "security_txt_domain": "jimdo.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://jimdo.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:24Z",
+    "contact_url": "mailto:security@jimdo.com",
+    "hiring": "https://careers.jimdo.com/",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "whatsapp.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://whatsapp.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:25Z",
+    "policy_url": "https://www.facebook.com/whitehat/info/",
+    "contact_url": "https://www.facebook.com/whitehat/report/",
+    "hall_of_fame": "https://www.facebook.com/whitehat/thanks/",
+    "hiring": "https://www.facebook.com/careers/areas-of-work/security/"
+  },
+  {
+    "security_txt_domain": "google.com.tw",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.tw/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:25Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "marriott.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://marriott.com/security.txt",
+    "last_update": "2021-05-22T08:21:27Z",
+    "policy_url": "https://hackerone.com/marriott",
+    "contact_url": "mailto:security@marriott.com",
+    "hall_of_fame": "https://hackerone.com/marriott/thanks"
+  },
+  {
+    "security_txt_domain": "patreon.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://patreon.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:28Z",
+    "contact_url": "mailto:security@patreon.com",
+    "pgp_key": "https://www.patreon.com/security_pgp_key.asc",
+    "hiring": "https://www.patreon.com/careers"
+  },
+  {
+    "security_txt_domain": "google.com.mx",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.mx/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:28Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "deepl.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://deepl.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:29Z",
+    "contact_url": "mailto:security@deepl.com",
+    "pgp_key": "https://www.deepl.com/gpg/security-at-deepl-pubkey-F22B8D41.txt",
+    "securitytxt_url": "https://www.deepl.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.vn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.vn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:30Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.tr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.tr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:30Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "smallpdf.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://smallpdf.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:30Z",
+    "policy_url": "https://smallpdf.com/vulnerability-disclosure",
+    "contact_url": "mailto:security@smallpdf.com"
+  },
+  {
+    "security_txt_domain": "trustpilot.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://trustpilot.com/security.txt",
+    "last_update": "2021-05-22T08:21:30Z",
+    "contact_url": "https://hackerone.com/trustpilot"
+  },
+  {
+    "security_txt_domain": "google.co.th",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.th/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:31Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "chess.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://chess.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:32Z",
+    "contact_url": "https://support.chess.com/article/346-contact-us"
+  },
+  {
+    "security_txt_domain": "guardian.co.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://guardian.co.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:33Z",
+    "contact_url": "mailto:appsec@theguardian.com",
+    "pgp_key": "https://www.theguardian.com/pgp/PublicKeys/Guardian%20Application-Security.pub.txt",
+    "hiring": "https://workforus.theguardian.com/index.php/search-jobs-and-apply/?search_paths%5B%5D=\u0026query=information+security\u0026submit=Search+Jobs",
+    "securitytxt_url": "https://www.theguardian.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "wpengine.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wpengine.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:33Z",
+    "contact_url": "https://wpengine.com/security"
+  },
+  {
+    "security_txt_domain": "qualtrics.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://qualtrics.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:35Z",
+    "policy_url": "https://www.qualtrics.com/platform/security/vulnerability-disclosure/",
+    "contact_url": "platform-security@qualtrics.com",
+    "hall_of_fame": "https://www.qualtrics.com/platform/security/hall-of-fame/",
+    "hiring": "https://www.qualtrics.com/careers/",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.au",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.au/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:35Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.ar",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ar/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:36Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.pl",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.pl/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:36Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.id",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.id/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:36Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "newrelic.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://newrelic.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:37Z",
+    "policy_url": "https://hackerone.com/newrelic",
+    "contact_url": "https://hackerone.com/newrelic",
+    "hall_of_fame": "https://hackerone.com/newrelic/thanks",
+    "securitytxt_url": "https://newrelic.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.sa",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.sa/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:40Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "feedly.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://feedly.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:40Z",
+    "contact_url": "mailto:security@feedly.com"
+  },
+  {
+    "security_txt_domain": "xing.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://xing.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:42Z",
+    "policy_url": "https://www.xing.com/rfc-2350.txt",
+    "contact_url": "mailto:security-reports@new-work.se",
+    "pgp_key": "https://www.xing.com/0xE3AC29F21ED525CE.asc",
+    "hiring": "https://www.xing.com/jobs/search?keywords=%22NEW%20WORK%20SE%22%20Security"
+  },
+  {
+    "security_txt_domain": "google.com.eg",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.eg/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:42Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "envato.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://envato.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:44Z",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "security_txt_domain": "blogspot.co.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.co.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:45Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "allegro.pl",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://allegro.pl/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:46Z",
+    "policy_url": "https://hackerone.com/allegro?view_policy=true",
+    "contact_url": "https://hackerone.com/allegro/reports/new",
+    "hall_of_fame": "https://hackerone.com/allegro/hacktivity",
+    "hiring": "https://allegro.tech/jobs/"
+  },
+  {
+    "security_txt_domain": "parallels.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://parallels.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:46Z",
+    "contact_url": "security@parallels.com",
+    "preferred_languages": "en,ru"
+  },
+  {
+    "security_txt_domain": "google.co.kr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.kr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:47Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "joomla.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://joomla.org/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:47Z",
+    "policy_url": "https://developer.joomla.org/security.html",
+    "contact_url": "mailto:security@joomla.org",
+    "hall_of_fame": "https://developer.joomla.org/security-centre.html",
+    "pgp_key": "https://developer.joomla.org/security/gpg-keys.html",
+    "hiring": "https://volunteers.joomla.org/teams/security-strike-team",
+    "securitytxt_url": "https://www.joomla.org/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "orange.fr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://orange.fr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:48Z",
+    "contact_url": "security.fr@orange.com",
+    "pgp_key": "https://www.orange.fr/.well-known/securityfr-pubkey.asc",
+    "hiring": "https://orange.jobs/"
+  },
+  {
+    "security_txt_domain": "google.com.ua",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ua/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:49Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "talktalk.co.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://talktalk.co.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:49Z",
+    "contact_url": "securityresearch@talktalkplc.com"
+  },
+  {
+    "security_txt_domain": "automattic.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://automattic.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:50Z",
+    "policy_url": "https://hackerone.com/automattic",
+    "contact_url": "https://hackerone.com/automattic/reports/new",
+    "hall_of_fame": "https://hackerone.com/automattic/thanks",
+    "pgp_key": "https://automattic.com/security/pgp-key/",
+    "securitytxt_url": "https://automattic.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "google.nl",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.nl/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:50Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "www.nhs.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://www.nhs.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:51Z",
+    "contact_url": "https://www.nhs.uk/contact-us/responsible-vulnerability-disclosure/"
+  },
+  {
+    "security_txt_domain": "unc.edu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://unc.edu/security.txt",
+    "last_update": "2021-05-22T08:21:52Z",
+    "contact_url": "mailto:mtriplett@unc.edu",
+    "pgp_key": "https//www.unc.edu/pgp-ket.txt"
+  },
+  {
+    "security_txt_domain": "google.gr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.gr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:53Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "ebay-kleinanzeigen.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ebay-kleinanzeigen.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:55Z",
+    "policy_url": "https://app.zerocopter.com/en/rd/25b4c77d-2872-4637-bb9c-2dac863bd77a",
+    "contact_url": "https://app.zerocopter.com/en/rd/25b4c77d-2872-4637-bb9c-2dac863bd77a",
+    "hiring": "https://jobs.ebayclassifiedsgroup.com/ebay-kleinanzeigen"
+  },
+  {
+    "security_txt_domain": "ozon.ru",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ozon.ru/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:57Z",
+    "policy_url": "https://hackerone.com/ozon?view_policy=true",
+    "contact_url": "https://hackerone.com/ozon",
+    "hall_of_fame": "https://hackerone.com/ozon/thanks",
+    "hiring": "https://job.ozon.ru/",
+    "securitytxt_url": "https://www.ozon.ru/.well-known/security.txt",
+    "preferred_languages": "en,ru"
+  },
+  {
+    "security_txt_domain": "biblegateway.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://biblegateway.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:58Z",
+    "contact_url": "vdp@harpercollins.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.ro",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ro/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:59Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "duolingo.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://duolingo.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:21:59Z",
+    "policy_url": "https://www.duolingo.com/privacy",
+    "contact_url": "security@duolingo.com",
+    "hiring": "https://careers.duolingo.com"
+  },
+  {
+    "security_txt_domain": "eset.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://eset.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:01Z",
+    "policy_url": "https://www.eset.com/int/security-vulnerability-reporting/",
+    "contact_url": "https://app.hacktrophy.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "admin.ch",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://admin.ch/security.txt",
+    "last_update": "2021-05-22T08:22:05Z",
+    "contact_url": "mailto:security@admin.ch",
+    "hiring": "https://jobs.admin.ch",
+    "securitytxt_url": "https://admin.ch/.well-known/security.txt",
+    "preferred_languages": "de,en,fr,it"
+  },
+  {
+    "security_txt_domain": "thoughtco.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://thoughtco.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:05Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "crunchbase.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://crunchbase.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:05Z",
+    "policy_url": "https://www.crunchbase.com/.well-known/security-policy.txt",
+    "contact_url": "mailto:security@crunchbase.com",
+    "pgp_key": "https://www.crunchbase.com/.well-known/public-key.txt",
+    "hiring": "https://about.crunchbase.com/about-us/careers",
+    "securitytxt_url": "https://www.crunchbase.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.my",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.my/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:06Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "redbubble.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://redbubble.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:06Z",
+    "policy_url": "https://help.redbubble.com/hc/en-us/articles/214531243-Report-a-Website-Security-Vulnerability",
+    "contact_url": "https://help.redbubble.com/hc/en-us/requests/new?ticket_form_id=16465",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.az",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.az/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:07Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.ve",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.ve/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:07Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "flic.kr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://flic.kr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:08Z",
+    "contact_url": "https://hackerone.com/flickr"
+  },
+  {
+    "security_txt_domain": "google.be",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.be/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:08Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "ensonhaber.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ensonhaber.com/security.txt",
+    "last_update": "2021-05-22T08:22:09Z",
+    "contact_url": "mailto:admin@ensonhaber.com"
+  },
+  {
+    "security_txt_domain": "google.ch",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ch/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:09Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.at",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.at/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:09Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "herokuapp.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://herokuapp.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:09Z",
+    "policy_url": "https://www.heroku.com/policy/security",
+    "contact_url": "https://www.heroku.com/policy/security#vuln_report",
+    "securitytxt_url": "https://www.heroku.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "brookings.edu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://brookings.edu/security.txt",
+    "last_update": "2021-05-22T08:22:10Z",
+    "contact_url": "mailto:cybersecurity@brookings.edu",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "ucl.ac.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ucl.ac.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:11Z",
+    "contact_url": "https://www.ucl.ac.uk/information-security/contact-us",
+    "pgp_key": "https://www.ucl.ac.uk/cert/pgp/cert.asc",
+    "securitytxt_url": "https://www.ucl.ac.uk/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "jimdofree.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://jimdofree.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:12Z",
+    "contact_url": "mailto:security@jimdo.com",
+    "hiring": "https://careers.jimdo.com/",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "hyatt.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://hyatt.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:12Z",
+    "policy_url": "https://hackerone.com/hyatt",
+    "contact_url": "mailto:security@hyatt.com",
+    "hall_of_fame": "https://hackerone.com/hyatt/thanks",
+    "pgp_key": "https://hyatt.com/.well-known/security-pgp.txt",
+    "hiring": "https://hyatt.jobs",
+    "securitytxt_url": "https://hyatt.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "hotels.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://hotels.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:14Z",
+    "policy_url": "https://www.expediagroup.com/about/privacy-data-handling-requirements/",
+    "contact_url": "RespDisc@expedia.com",
+    "hiring": "https://lifeatexpedia.com/"
+  },
+  {
+    "security_txt_domain": "thebalance.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://thebalance.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:14Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "optimizely.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://optimizely.com/security.txt",
+    "last_update": "2021-05-22T08:22:14Z",
+    "contact_url": "security@optimizely.com",
+    "pgp_key": "https://www.optimizely.com/security-at-pgp-key.txt"
+  },
+  {
+    "security_txt_domain": "creditkarma.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://creditkarma.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:16Z",
+    "policy_url": "https://bugcrowd.com/creditkarma",
+    "contact_url": "https://www.creditkarma.com/about/security",
+    "pgp_key": "https://pgp.mit.edu/pks/lookup?search=0x68E6E06D",
+    "hiring": "https://www.creditkarma.com/careers"
+  },
+  {
+    "security_txt_domain": "google.co.za",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.za/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:16Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "lego.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://lego.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:16Z",
+    "policy_url": "https://www.lego.com/legal/notices-and-policies/responsible-disclosure-policy/",
+    "contact_url": "mailto:whitehat@lego.com",
+    "securitytxt_url": "https://www.lego.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.cl",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cl/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:17Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "nextdoor.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://nextdoor.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:17Z",
+    "contact_url": "mailto:security@nextdoor.com",
+    "hiring": "https://nextdoor.com/jobs",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.ph",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ph/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:18Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "blogspot.ca",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.ca/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:20Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "deezer.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://deezer.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:21Z",
+    "policy_url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
+    "contact_url": "https://yeswehack.com/programs/deezer-bug-bounty-program-2019",
+    "hiring": "https://www.deezerjobs.com"
+  },
+  {
+    "security_txt_domain": "pixiv.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://pixiv.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:22Z",
+    "contact_url": "https://hackerone.com/pixiv",
+    "hall_of_fame": "https://hackerone.com/pixiv/thanks",
+    "hiring": "https://recruit.jobcan.jp/pixiv/show/b001/19024"
+  },
+  {
+    "security_txt_domain": "letsencrypt.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://letsencrypt.org/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:23Z",
+    "contact_url": "security@letsencrypt.org",
+    "pgp_key": "https://letsencrypt.org/contact/",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "southwest.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://southwest.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:24Z",
+    "policy_url": "https://www.southwest.com/security-researchers.txt",
+    "contact_url": "mailto:securityreport@wnco.com",
+    "pgp_key": "https://www.southwest.com/pgp_key.txt",
+    "securitytxt_url": "https://www.southwest.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.pk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.pk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:24Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.pe",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.pe/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:25Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.pt",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.pt/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:25Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "codecanyon.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://codecanyon.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:25Z",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "security_txt_domain": "lifewire.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://lifewire.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:26Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "blogspot.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:26Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "onetrust.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://onetrust.com/security.txt",
+    "last_update": "2021-05-22T08:22:30Z",
+    "contact_url": "mailto:responsibledisclosure@onetrust.com"
+  },
+  {
+    "security_txt_domain": "get-express-vpn.online",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://get-express-vpn.online/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:30Z",
+    "contact_url": "https://www.expressvpn.com/bug-bounty",
+    "hall_of_fame": "https://www.expressvpn.com/bug-bounty/acknowledgment",
+    "hiring": "https://www.expressvpn.com/jobs",
+    "securitytxt_url": "https://www.expressvpn.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "jetbrains.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://jetbrains.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:31Z",
+    "policy_url": "https://www.jetbrains.com/legal/docs/terms/coordinated-disclosure.html",
+    "contact_url": "security@jetbrains.com"
+  },
+  {
+    "security_txt_domain": "nodejs.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://nodejs.org/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:31Z",
+    "policy_url": "https://nodejs.org/en/security/",
+    "contact_url": "security@nodejs.org"
+  },
+  {
+    "security_txt_domain": "cookielaw.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://cookielaw.org/security.txt",
+    "last_update": "2021-05-22T08:22:31Z",
+    "contact_url": "mailto:responsibledisclosure@onetrust.com"
+  },
+  {
+    "security_txt_domain": "trendmicro.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://trendmicro.com/security.txt",
+    "last_update": "2021-05-22T08:22:32Z",
+    "contact_url": "mailto:security@trendmicro.com",
+    "hall_of_fame": "https://success.trendmicro.com/vulnerability-response#acknowledgement",
+    "pgp_key": "http://esupport.trendmicro.com/media/13888799/tm-security-pgp-key.zip"
+  },
+  {
+    "security_txt_domain": "wired.co.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wired.co.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:33Z",
+    "contact_url": "cndtriage@condenast.co.uk",
+    "hiring": "https://condenastuk.avature.net/careers/SearchJobs"
+  },
+  {
+    "security_txt_domain": "treehugger.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://treehugger.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:34Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "raspberrypi.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://raspberrypi.org/security.txt",
+    "last_update": "2021-05-22T08:22:34Z",
+    "contact_url": "security@raspberrypi.org",
+    "pgp_key": "https://keybase.io/rpfwebteam/pgp_keys.asc?fingerprint=29ac44d10c2215ccb4d1faaec3900f01a173bb84"
+  },
+  {
+    "security_txt_domain": "google.dz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.dz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:35Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "wistia.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wistia.com/security.txt",
+    "last_update": "2021-05-22T08:22:36Z",
+    "contact_url": "security@wistia.com"
+  },
+  {
+    "security_txt_domain": "google.com.co",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.co/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:37Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.se",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.se/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:38Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "thebalancecareers.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://thebalancecareers.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:39Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "arduino.cc",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://arduino.cc/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:41Z",
+    "policy_url": "https://www.arduino.cc/en/Main/Security",
+    "contact_url": "mailto:security@arduino.cc",
+    "pgp_key": "https://raw.githubusercontent.com/arduino/arduino-cvd-policy/master/security_at_arduino_cc-pub.asc",
+    "securitytxt_url": "https://www.arduino.cc/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "ovh.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ovh.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:44Z",
+    "policy_url": "https://bountyfactory.io/ovh/ovh#rules",
+    "contact_url": "csirt@ovhcloud.com",
+    "hall_of_fame": "https://bountyfactory.io/ovh/ovh#HoF",
+    "pgp_key": "https://www.ovh.com/.well-known/security-ovh-emea.asc",
+    "hiring": "https://careers.ovh.com"
+  },
+  {
+    "security_txt_domain": "thespruce.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://thespruce.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:46Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "blogspot.fr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.fr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:46Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "secureworks.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://secureworks.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:46Z",
+    "contact_url": "security@secureworks.com",
+    "hall_of_fame": "https://www.secureworks.com/contact/client-support/report-a-vulnerability",
+    "pgp_key": "https://www.secureworks.com/~/media/Files/Keys/pgp-key.txt"
+  },
+  {
+    "security_txt_domain": "npmjs.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://npmjs.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:48Z",
+    "policy_url": "https://www.npmjs.com/policies/security",
+    "contact_url": "security@npmjs.com",
+    "pgp_key": "https://keybase.io/npmregistry/pgp_keys.asc",
+    "hiring": "https://www.npmjs.com/jobs",
+    "securitytxt_url": "https://www.npmjs.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.hu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.hu/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "odoo.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://odoo.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:50Z",
+    "policy_url": "https://www.odoo.com/security-report",
+    "contact_url": "security@odoo.com",
+    "hall_of_fame": "https://www.odoo.com/security-report#hof",
+    "pgp_key": "https://download.odoo.com/files/odoo_security.asc",
+    "securitytxt_url": "https://www.odoo.com/.well-known/security.txt",
+    "preferred_languages": "en,fr"
+  },
+  {
+    "security_txt_domain": "ionos.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ionos.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:51Z",
+    "contact_url": "mailto:security@ionos.com",
+    "pgp_key": "https://keys.openpgp.org/search?q=security%40ionos.com"
+  },
+  {
+    "security_txt_domain": "realestate.com.au",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://realestate.com.au/security.txt",
+    "last_update": "2021-05-22T08:22:52Z",
+    "policy_url": "https://www.rea-group.com/security",
+    "contact_url": "security-vulnerability@rea-group.com",
+    "hall_of_fame": "https://www.rea-group.com/blog/responsible-vulnerability-disclosure-program-hall-of-fame/",
+    "pgp_key": "https://keybase.io/reagroupsecurity/pgp_keys.asc?fingerprint=9bbb1f1e7eeb0684a224c8e72880b6418d107e44",
+    "hiring": "https://www.rea-group.com/careers/jobs/",
+    "securitytxt_url": "https://www.realestate.com.au/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "protonmail.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://protonmail.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:53Z",
+    "policy_url": "https://protonmail.com/blog/protonmail-bug-bounty-program/",
+    "contact_url": "mailto:security@protonmail.com",
+    "hall_of_fame": "https://protonmail.com/blog/protonmail-security-contributors/",
+    "pgp_key": "https://protonmail.com/security@protonmail.com.txt",
+    "hiring": "https://protonmail.com/careers"
+  },
+  {
+    "security_txt_domain": "justgiving.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://justgiving.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:53Z",
+    "policy_url": "https://www.blackbaud.com/security/responsible-disclosure",
+    "contact_url": "mailto:security@blackbaud.com",
+    "pgp_key": "https://www.blackbaud.com/docs/default-source/security/security_blackbaud_com_publicpgpkey.zip",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.cz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:54Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ae",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ae/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:54Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.il",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.il/.well-known/security.txt",
+    "last_update": "2021-05-22T08:22:56Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "verywellmind.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://verywellmind.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:01Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "j.mp",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://j.mp/security.txt",
+    "last_update": "2021-05-22T08:23:02Z",
+    "contact_url": "security@bitly.com",
+    "pgp_key": "https://bitly.com/security_pgp.txt"
+  },
+  {
+    "security_txt_domain": "airtable.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://airtable.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:05Z",
+    "policy_url": "https://hackerone.com/airtable",
+    "contact_url": "security@airtable.com",
+    "hiring": "https://airtable.com/jobs"
+  },
+  {
+    "security_txt_domain": "dreamhost.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://dreamhost.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:05Z",
+    "contact_url": "abuse@dreamhost.com",
+    "pgp_key": "https://dreamhost.com/abuse.asc",
+    "hiring": "https://www.dreamhost.com/careers/",
+    "securitytxt_url": "https://www.dreamhost.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.sk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.sk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:05Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "focus.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://focus.de/security.txt",
+    "last_update": "2021-05-22T08:23:06Z",
+    "policy_url": "https://www.burda-forward.de/en/security/",
+    "contact_url": "mailto:security@burda-forward.de",
+    "pgp_key": "https://www.burda-forward.de/files/user_upload/Public_PGP_Key.asc",
+    "hiring": "https://www.burda-forward.de/en/career/jobs/"
+  },
+  {
+    "security_txt_domain": "blogspot.in",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.in/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:07Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "rte.ie",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://rte.ie/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:13Z",
+    "contact_url": "mailto:abuse@rte.ie"
+  },
+  {
+    "security_txt_domain": "google.ie",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ie/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:14Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "loom.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://loom.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:17Z",
+    "contact_url": "mailto:security@loom.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "myfitnesspal.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://myfitnesspal.com/security.txt",
+    "last_update": "2021-05-22T08:23:17Z",
+    "contact_url": "product-security@underarmour.com",
+    "hall_of_fame": "https://account.underarmour.com/terms-and-conditions",
+    "pgp_key": "http://pgp.mit.edu/pks/lookup?op=get\u0026search=0xFDF5340751153CBE"
+  },
+  {
+    "security_txt_domain": "chip.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://chip.de/security.txt",
+    "last_update": "2021-05-22T08:23:17Z",
+    "policy_url": "https://www.burda-forward.de/en/security/",
+    "contact_url": "mailto:security@burda-forward.de",
+    "pgp_key": "https://www.burda-forward.de/files/user_upload/Public_PGP_Key.asc",
+    "hiring": "https://www.burda-forward.de/en/career/jobs/"
+  },
+  {
+    "security_txt_domain": "verywellhealth.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://verywellhealth.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:17Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "thebalancesmb.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://thebalancesmb.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:19Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.dk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.dk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:19Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.nz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.nz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:23Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "usaa.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://usaa.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:23Z",
+    "policy_url": "https://bugcrowd.com/usaa",
+    "contact_url": "https://bugcrowd.com/usaa/report",
+    "hall_of_fame": "https://bugcrowd.com/usaa/hall-of-fame",
+    "pgp_key": "https://www.usaa.com/gpg_disclosure_public.txt",
+    "hiring": "https://www.usaajobs.com/search-jobs/information%20security/",
+    "securitytxt_url": "https://www.usaa.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "mcdonalds.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://mcdonalds.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:23Z",
+    "contact_url": "dataquestions@us.mcd.com"
+  },
+  {
+    "security_txt_domain": "google.bg",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.bg/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:24Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "warwick.ac.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://warwick.ac.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:26Z",
+    "contact_url": "https://warwick.ac.uk/itss",
+    "pgp_key": "https://warwick.ac.uk/itss/war-csiirt.asc"
+  },
+  {
+    "security_txt_domain": "google.fi",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.fi/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:27Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "samsclub.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://samsclub.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:27Z",
+    "policy_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "contact_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "hiring": "https://careers.walmart.com",
+    "securitytxt_url": "https://www.samsclub.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "auth0.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://auth0.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:30Z",
+    "policy_url": "https://auth0.com/responsible-disclosure-policy",
+    "contact_url": "https://auth0.com/responsible-disclosure-policy",
+    "pgp_key": "https://cdn.auth0.com/website/security/pgp/171A6588004C96B6A8E8A130B54BE3C0D18F0FE7.pub",
+    "hiring": "https://auth0.com/careers/positions?areas=Security",
+    "securitytxt_url": "https://auth0.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "c-span.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://c-span.org/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:32Z",
+    "contact_url": "mailto:acloutier@c-spanarchives.org",
+    "pgp_key": "https://www.c-span.org/orgC.txt",
+    "securitytxt_url": "https://www.c-span.org/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.hr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.hr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:32Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "phpmyadmin.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://phpmyadmin.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:32Z",
+    "policy_url": "https://www.phpmyadmin.net/security/",
+    "contact_url": "mailto:security@phpmyadmin.net",
+    "pgp_key": "https://files.phpmyadmin.net/phpmyadmin.keyring",
+    "securitytxt_url": "https://www.phpmyadmin.net/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "drugs.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://drugs.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:34Z",
+    "policy_url": "https://www.drugs.com/support/responsible-disclosure-policy.html",
+    "contact_url": "mailto:security@drugs.com",
+    "hall_of_fame": "https://www.drugs.com/support/security-hall-of-fame.html",
+    "pgp_key": "https://www.drugs.com/support/drugscom-security.pub"
+  },
+  {
+    "security_txt_domain": "google.rs",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.rs/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:34Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "juntadeandalucia.es",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://juntadeandalucia.es/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:36Z",
+    "contact_url": "mailto:atencion.cert@juntadeandalucia.es"
+  },
+  {
+    "security_txt_domain": "intercom.io",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://intercom.io/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:39Z",
+    "policy_url": "https://www.bugcrowd.com/resource/standard-disclosure-terms/",
+    "contact_url": "https://bugcrowd.com/intercom",
+    "hall_of_fame": "https://bugcrowd.com/intercom/hall-of-fame",
+    "hiring": "https://boards.greenhouse.io/intercom/jobs/1888872",
+    "securitytxt_url": "https://app.intercom.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "nur.kz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://nur.kz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:40Z",
+    "contact_url": "mailto:security@corp.nur.kz"
+  },
+  {
+    "security_txt_domain": "blogspot.it",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.it/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:41Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "ryanair.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "http://ryanair.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:43Z",
+    "contact_url": "wh_is_disclosure@ryanair.com",
+    "pgp_key": "https://www.ryanair.com/.well-known/public_key.asc"
+  },
+  {
+    "security_txt_domain": "bitdefender.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bitdefender.com/security.txt",
+    "last_update": "2021-05-22T08:23:43Z",
+    "policy_url": "https://www.bitdefender.com/bitdefender_vulnerability_disclosure_program.html",
+    "contact_url": "mailto:bugbounty@bitdefender.com",
+    "hall_of_fame": "https://www.bitdefender.com/site/view/bug-bounty-hall-of-fame.html",
+    "pgp_key": "https://www.bitdefender.com/media/materials/bug_bounty/bugbounty_bitdefender.com_public.asc"
+  },
+  {
+    "security_txt_domain": "google.no",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.no/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:45Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.lk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.lk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:47Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.bd",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.bd/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:55Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "doctolib.fr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://doctolib.fr/security.txt",
+    "last_update": "2021-05-22T08:23:57Z",
+    "contact_url": "mailto:doctolib.security@protonmail.com",
+    "pgp_key": "https://doctolib.com/pgp-key.txt",
+    "hiring": "https://about.doctolib.com/jobs"
+  },
+  {
+    "security_txt_domain": "fanfiction.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://fanfiction.net/security.txt",
+    "last_update": "2021-05-22T08:23:57Z",
+    "contact_url": "security@fictionpress.com"
+  },
+  {
+    "security_txt_domain": "uio.no",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://uio.no/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:58Z",
+    "contact_url": "https://cert.uio.no/contact",
+    "pgp_key": "https://www.uio.no/english/services/it/security/cert/cert%40uio.no.pub.gpg.asc",
+    "preferred_languages": "no,en"
+  },
+  {
+    "security_txt_domain": "vistaprint.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://vistaprint.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:23:59Z",
+    "contact_url": "bugbounty@cimpress.com"
+  },
+  {
+    "security_txt_domain": "lichess.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://lichess.org/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:00Z",
+    "policy_url": "https://lichess.org/contact#help-security",
+    "contact_url": "mailto:contact@lichess.org",
+    "pgp_key": "https://lichess.org/.well-known/gpg.asc",
+    "securitytxt_url": "https://lichess.org/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.by",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.by/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:00Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "brave.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://brave.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:00Z",
+    "policy_url": "https://hackerone.com/brave?view_policy=true",
+    "contact_url": "security@brave.com",
+    "hall_of_fame": "https://hackerone.com/brave/thanks",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.kz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.kz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:01Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "forgeofempires.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://forgeofempires.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:02Z",
+    "contact_url": "mailto:security@innogames.com",
+    "pgp_key": "https://www.innogames.com/pgp-key.txt"
+  },
+  {
+    "security_txt_domain": "mariadb.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://mariadb.org/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:03Z",
+    "policy_url": "https://mariadb.org/about/security-policy/",
+    "contact_url": "https://hackerone.com/mariadb",
+    "hall_of_fame": "https://hackerone.com/mariadb/thanks",
+    "pgp_key": "https://mariadb.org/security_at_mariadb_org.asc"
+  },
+  {
+    "security_txt_domain": "ui.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ui.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:05Z",
+    "policy_url": "https://ui.com/security/",
+    "contact_url": "security@ui.com",
+    "pgp_key": "https://ui.com/support/security-rewards/pgp-key/"
+  },
+  {
+    "security_txt_domain": "blockchain.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blockchain.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:05Z",
+    "policy_url": "https://hackerone.com/blockchain",
+    "contact_url": "https://hackerone.com/blockchain",
+    "securitytxt_url": "https://www.blockchain.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "nrk.no",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://nrk.no/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:05Z",
+    "policy_url": "https://info.nrk.no/hjem/responsible-disclosure-policy/",
+    "contact_url": "mailto:IT-Sikkerhetsgruppe@nrk.no",
+    "hall_of_fame": "https://info.nrk.no/hjem/responsible-disclosure-policy/#security-hall-of-fame",
+    "securitytxt_url": "https://www.nrk.no/.well-known/security.txt",
+    "preferred_languages": "no,en"
+  },
+  {
+    "security_txt_domain": "sprint.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://sprint.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:06Z",
+    "contact_url": "web_security@sprint.com"
+  },
+  {
+    "security_txt_domain": "google.com.ly",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ly/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:06Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "accorhotels.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://accorhotels.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:06Z",
+    "contact_url": "mailto:security@accor.com",
+    "pgp_key": "https://all.accor.com/.well-known/accor-security-pgp-key.txt"
+  },
+  {
+    "security_txt_domain": "linecorp.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://linecorp.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:08Z",
+    "policy_url": "https://bugbounty.linecorp.com/en/terms_of_use/",
+    "contact_url": "https://bugbounty.linecorp.com/en/apply/",
+    "hall_of_fame": "https://bugbounty.linecorp.com/en/halloffame/",
+    "hiring": "https://linecorp.com/ja/career/position/498"
+  },
+  {
+    "security_txt_domain": "archive.is",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://archive.is/security.txt",
+    "last_update": "2021-05-22T08:24:09Z",
+    "contact_url": "mailto:security@archive.is"
+  },
+  {
+    "security_txt_domain": "fendi.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://fendi.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:11Z",
+    "policy_url": "https://www.fendi.com/.well-known/responsible-disclosure/",
+    "contact_url": "mailto:security@fendi.com",
+    "pgp_key": "https://www.fendi.com/.well-known/security-at-fendi-key.txt"
+  },
+  {
+    "security_txt_domain": "thespruceeats.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://thespruceeats.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:11Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "1password.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://1password.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:13Z",
+    "contact_url": "mailto:security@agilebits.com",
+    "pgp_key": "https://1password.com/support-at-agilebits-pubkey-42F3D4D4.asc"
+  },
+  {
+    "security_txt_domain": "ons.gov.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "http://ons.gov.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:13Z",
+    "policy_url": "https://www.ons.gov.uk/help/vulnerabilitydisclosurepolicy",
+    "contact_url": "https://hackerone.com/52fa7bc0-5356-4c86-9f79-eeb03e1d55cc/embedded_submissions/new"
+  },
+  {
+    "security_txt_domain": "google.lt",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.lt/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:13Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "kaltura.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://kaltura.com/security.txt",
+    "last_update": "2021-05-22T08:24:13Z",
+    "contact_url": "malito:security@kaltura.com"
+  },
+  {
+    "security_txt_domain": "walmart.ca",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://walmart.ca/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:14Z",
+    "policy_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "contact_url": "https://corporate.walmart.com/article/responsible-disclosure-policy",
+    "securitytxt_url": "https://www.walmart.ca/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "auspost.com.au",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://auspost.com.au/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:21Z",
+    "policy_url": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "contact_url": "mailto:security@auspost.com.au",
+    "hall_of_fame": "https://auspost.com.au/about-us/about-our-site/responsible-disclosure",
+    "pgp_key": "https://auspost.com.au/.well-known/pgp-key.txt",
+    "hiring": "https://auspost.com.au/jobs",
+    "securitytxt_url": "https://auspost.com.au/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "skillshare.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://skillshare.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:25Z",
+    "contact_url": "mailto:bugbounty@skillshare.com",
+    "hiring": "https://www.skillshare.com/careers",
+    "securitytxt_url": "https://www.skillshare.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.do",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.do/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:26Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "plex.tv",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://plex.tv/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:27Z",
+    "policy_url": "https://support.plex.tv/articles/reporting-security-issues/",
+    "contact_url": "security@plex.tv",
+    "pgp_key": "https://plex-security.s3.amazonaws.com/plex-security-public-key.asc",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.co.ma",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.ma/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:29Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "drive2.ru",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://drive2.ru/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:29Z",
+    "contact_url": "mailto:security@drive2.ru",
+    "pgp_key": "https://www.drive2.ru/assets/dynamic/pgp-key.txt"
+  },
+  {
+    "security_txt_domain": "google.com.ec",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ec/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:31Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "blogspot.nl",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.nl/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:34Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "heroku.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://heroku.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:34Z",
+    "policy_url": "https://www.heroku.com/policy/security",
+    "contact_url": "https://www.heroku.com/policy/security#vuln_report",
+    "securitytxt_url": "https://www.heroku.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "bahn.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bahn.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:34Z",
+    "contact_url": "security-issues@deutschebahn.com",
+    "pgp_key": "https://www.deutschebahn.com/security-issues-pubkey.txt",
+    "hiring": "https://db.de/infosec-jobs"
+  },
+  {
+    "security_txt_domain": "google.lv",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.lv/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:38Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.ng",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ng/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:38Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "qualys.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://qualys.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:38Z",
+    "policy_url": "https://www.qualys.com/docs/responsible-disclosure-policy.pdf",
+    "contact_url": "mailto:security@qualys.com",
+    "hiring": "https://www.qualys.com/careers/",
+    "securitytxt_url": "https://www.qualys.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "seriouseats.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://seriouseats.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:40Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "grab.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://grab.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:40Z",
+    "policy_url": "https://hackerone.com/grab?view_policy=true",
+    "contact_url": "https://hackerone.com/grab",
+    "hall_of_fame": "https://hackerone.com/grab/thanks"
+  },
+  {
+    "security_txt_domain": "paypalobjects.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://paypalobjects.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:42Z",
+    "policy_url": "https://hackerone.com/paypal?view_policy=true",
+    "contact_url": "https://hackerone.com/paypal",
+    "hiring": "https://jobsearch.paypal-corp.com/search?keywords=Cyber",
+    "securitytxt_url": "https://www.paypalobjects.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "uu.se",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://uu.se/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:43Z",
+    "contact_url": "https://www.uu.se/en/about-uu/contact/",
+    "pgp_key": "openpgp4fpr:AAB0C8FD20A563235C7DFFAC70DC47BE56D64E0C",
+    "hiring": "http://www.uu.se/jobb/"
+  },
+  {
+    "security_txt_domain": "boardgamegeek.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://boardgamegeek.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:44Z",
+    "policy_url": "https://boardgamegeek.com/responsible_disclosure_policy",
+    "contact_url": "security@boardgamegeek.com",
+    "pgp_key": "https://boardgamegeek.com/download/pgp.txt"
+  },
+  {
+    "security_txt_domain": "blogspot.jp",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.jp/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:45Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "gandi.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://gandi.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:46Z",
+    "contact_url": "mailto:security@gandi.net",
+    "hall_of_fame": "https://www.gandi.net/security-acknowledgements",
+    "pgp_key": "security@gandi.net:https://www.gandi.net/static/pgp/security_at_gandi_net.pgp",
+    "hiring": "https://www.welcometothejungle.co/companies/gandi",
+    "preferred_languages": "en,fr"
+  },
+  {
+    "security_txt_domain": "bol.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://bol.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:47Z",
+    "policy_url": "https://www.bol.com/nl/m/algemeen/kwetsbaarheid-melden/subject/64209061/index.html",
+    "contact_url": "rd@bol.com",
+    "pgp_key": "https://www.bol.com/nl/cms/cms/rd_bol_com_pgp_public_key.asc"
+  },
+  {
+    "security_txt_domain": "google.com.kw",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.kw/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "razorpay.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://razorpay.com/security.txt",
+    "last_update": "2021-05-22T08:24:50Z",
+    "contact_url": "security@razorpay.com",
+    "hiring": "https://razorpay.com/jobs/"
+  },
+  {
+    "security_txt_domain": "google.co.ao",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.ao/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:50Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "tripsavvy.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://tripsavvy.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:52Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "pluralsight.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://pluralsight.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:53Z",
+    "contact_url": "security@pluralsight.com",
+    "hiring": "https://www.pluralsight.com/careers/jobs",
+    "securitytxt_url": "https://www.pluralsight.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.iq",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.iq/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:53Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "sage.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://sage.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:54Z",
+    "contact_url": "soc@sage.com"
+  },
+  {
+    "security_txt_domain": "usu.edu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://usu.edu/security.txt",
+    "last_update": "2021-05-22T08:24:55Z",
+    "contact_url": "mailto:security@usu.edu"
+  },
+  {
+    "security_txt_domain": "president.gov.ua",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://president.gov.ua/.well-known/security.txt",
+    "last_update": "2021-05-22T08:24:57Z",
+    "contact_url": "mailto:security@president.gov.ua"
+  },
+  {
+    "security_txt_domain": "expressvpn.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://expressvpn.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:02Z",
+    "contact_url": "https://www.expressvpn.com/bug-bounty",
+    "hall_of_fame": "https://www.expressvpn.com/bug-bounty/acknowledgment",
+    "hiring": "https://www.expressvpn.com/jobs",
+    "securitytxt_url": "https://www.expressvpn.com/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "spacex.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://spacex.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:02Z",
+    "contact_url": "mailto:security@spacex.com",
+    "pgp_key": "https://www.spacex.com/.well-known/publickey.txt",
+    "hiring": "https://www.spacex.com/careers/?department=Information%2520Security"
+  },
+  {
+    "security_txt_domain": "haveibeenpwned.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://haveibeenpwned.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:02Z",
+    "contact_url": "mailto:security@troyhunt.com",
+    "pgp_key": "https://keybase.io/troyhunt"
+  },
+  {
+    "security_txt_domain": "ameli.fr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ameli.fr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:05Z",
+    "policy_url": "https://assurancemaladiesec.github.io/abuse/reporting/",
+    "contact_url": "mailto:abuse@assurance-maladie.fr",
+    "hall_of_fame": "https://assurancemaladiesec.github.io/abuse/thanks/",
+    "pgp_key": "https://raw.githubusercontent.com/AssuranceMaladieSec/abuse/master/abuse-gpg-public-key.txt",
+    "preferred_languages": "fr,en"
+  },
+  {
+    "security_txt_domain": "wanadoo.fr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wanadoo.fr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:12Z",
+    "contact_url": "security.fr@orange.com",
+    "pgp_key": "https://www.orange.fr/.well-known/securityfr-pubkey.asc",
+    "hiring": "https://orange.jobs/"
+  },
+  {
+    "security_txt_domain": "google.si",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.si/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:14Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "concursolutions.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://concursolutions.com/security.txt",
+    "last_update": "2021-05-22T08:25:14Z",
+    "contact_url": "https://bugcrowd.com/concur"
+  },
+  {
+    "security_txt_domain": "adafruit.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://adafruit.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:15Z",
+    "policy_url": "https://www.adafruit.com/reportingsecurityissues",
+    "contact_url": "security@adafruit.com",
+    "hall_of_fame": "https://www.adafruit.com/responsibledisclosurethanks/",
+    "pgp_key": "https://www.adafruit.com/reportingsecurityissues",
+    "hiring": "https://jobs.adafruit.com",
+    "securitytxt_url": "https://www.adafruit.com/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "linode.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://linode.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:16Z",
+    "policy_url": "https://hackerone.com/linode",
+    "contact_url": "disclosure@linode.com",
+    "pgp_key": "https://keybase.io/linodesecurity/pgp_keys.asc",
+    "hiring": "https://linode.com/careers"
+  },
+  {
+    "security_txt_domain": "google.com.qa",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.qa/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:16Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "awin.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://awin.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:18Z",
+    "contact_url": "mailto:security-bugs@awin.com"
+  },
+  {
+    "security_txt_domain": "google.com.uy",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.uy/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:18Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.jo",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.jo/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:18Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "mnn.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://mnn.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:19Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "blogspot.se",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.se/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:21Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "graphicriver.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://graphicriver.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:23Z",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "security_txt_domain": "blogspot.ru",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.ru/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:26Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "verywellfit.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://verywellfit.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:28Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "edmodo.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://edmodo.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:28Z",
+    "contact_url": "mailto:support@edmodo.com"
+  },
+  {
+    "security_txt_domain": "99designs.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://99designs.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:29Z",
+    "contact_url": "mailto:security@99designs.com",
+    "hiring": "https://99designs.com/about/jobs",
+    "securitytxt_url": "https://99designs.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.tn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.tn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:36Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "acronis.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://acronis.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:37Z",
+    "contact_url": "mailto:security@acronis.com",
+    "hiring": "https://www.acronis.com/en-us/careers/"
+  },
+  {
+    "security_txt_domain": "preply.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://preply.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:37Z",
+    "contact_url": "security@preply.com",
+    "hiring": "https://preply.com/en/careers",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "rtbf.be",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://rtbf.be/security.txt",
+    "last_update": "2021-05-22T08:25:39Z",
+    "policy_url": "https://www.rtbf.be/cgu/",
+    "contact_url": "mailto:gr_irtbf_it_kernel@rtbf.be",
+    "hiring": "http://emploi.rtbf.be/index.aspx"
+  },
+  {
+    "security_txt_domain": "spreadshirt.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://spreadshirt.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:39Z",
+    "contact_url": "mailto:security@spreadgroup.com",
+    "pgp_key": "https://assets.spreadshirt.net/security/publickey.asc"
+  },
+  {
+    "security_txt_domain": "google.ba",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ba/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:40Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "cleartax.in",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://cleartax.in/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:41Z",
+    "contact_url": "mailto:security-reports@cleartax.in"
+  },
+  {
+    "security_txt_domain": "sparkfun.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://sparkfun.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:42Z",
+    "contact_url": "mailto:it_security@sparkfun.com"
+  },
+  {
+    "security_txt_domain": "spring.io",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://spring.io/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:42Z",
+    "policy_url": "https://spring.io/security-policy",
+    "contact_url": "https://spring.io/security-policy"
+  },
+  {
+    "security_txt_domain": "urbanairship.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://urbanairship.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:43Z",
+    "policy_url": "https://www.airship.com/legal/full-disclosure-security-policy/",
+    "contact_url": "mailto:security@airship.com",
+    "hall_of_fame": "https://www.airship.com/legal/full-disclosure-security-policy/",
+    "pgp_key": "openpgp4fpr:64C0BE3B7A6058E8B3BD437D8ECBD357243F4CF0",
+    "securitytxt_url": "https://www.airship.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.ee",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ee/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:45Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "player.fm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://player.fm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:47Z",
+    "contact_url": "support@player.fm",
+    "securitytxt_url": "https://player.fm/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.np",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.np/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "tim.it",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://tim.it/security.txt",
+    "last_update": "2021-05-22T08:25:49Z",
+    "policy_url": "https://www.gruppotim.it/en/footer/responsible-disclosure.html",
+    "contact_url": "mailto:responsible-disclosure@telecomitalia.it",
+    "pgp_key": "https://www.gruppotim.it/en/footer/responsible-disclosure/pgpkey-responsible-disclosure.html"
+  },
+  {
+    "security_txt_domain": "nuance.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://nuance.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:51Z",
+    "contact_url": "mailto:security@nuance.com",
+    "pgp_key": "https://www.nuance.com/security/pgp-key.txt"
+  },
+  {
+    "security_txt_domain": "google.com.gt",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.gt/.well-known/security.txt",
+    "last_update": "2021-05-22T08:25:56Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.mm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.mm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:00Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.cr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.cr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:03Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.py",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.py/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:03Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.cu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.cu/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:04Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "vrt.be",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://vrt.be/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:06Z",
+    "policy_url": "https://www.vrt.be/en/responsible-disclosure-policy-english-version/",
+    "contact_url": "mailto:infosec@vrt.be",
+    "hall_of_fame": "https://www.vrt.be/nl/info/responsible-disclosure-policy/responsible-disclosure-hall-of-fame/",
+    "pgp_key": "https://www.vrt.be/.well-known/infosec_at_vrt.be_pgp_pubkey.txt"
+  },
+  {
+    "security_txt_domain": "articulate.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://articulate.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:08Z",
+    "contact_url": "mailto:security-disclosure@articulate.com",
+    "securitytxt_url": "https://articulate.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "pg.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://pg.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:08Z",
+    "contact_url": "https://hackerone.com/proctergamble",
+    "hall_of_fame": "https://hackerone.com/proctergamble/thanks"
+  },
+  {
+    "security_txt_domain": "baseball-reference.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://baseball-reference.com/security.txt",
+    "last_update": "2021-05-22T08:26:09Z",
+    "contact_url": "mailto:bugs_3@sports-reference.com"
+  },
+  {
+    "security_txt_domain": "wordfence.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wordfence.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:13Z",
+    "policy_url": "https://www.wordfence.com/security/",
+    "contact_url": "security@wordfence.com",
+    "pgp_key": "https://www.wordfence.com/wp-content/uploads/2011/04/E804C304.asc",
+    "securitytxt_url": "https://www.wordfence.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.sv",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.sv/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:14Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "svt.se",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://svt.se/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:15Z",
+    "contact_url": "https://kontakt.svt.se/guide/kontakt"
+  },
+  {
+    "security_txt_domain": "trustwallet.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://trustwallet.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:15Z",
+    "contact_url": "security@trustwallet.com"
+  },
+  {
+    "security_txt_domain": "google.com.bo",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.bo/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:15Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "ionos.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ionos.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:17Z",
+    "contact_url": "mailto:security@ionos.com",
+    "pgp_key": "https://keys.openpgp.org/search?q=security%40ionos.com",
+    "hiring": "https://jobs.ionos.de/"
+  },
+  {
+    "security_txt_domain": "liveabout.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://liveabout.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:18Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "intercom.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://intercom.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:21Z",
+    "policy_url": "https://www.bugcrowd.com/resource/standard-disclosure-terms/",
+    "contact_url": "https://bugcrowd.com/intercom",
+    "hall_of_fame": "https://bugcrowd.com/intercom/hall-of-fame",
+    "hiring": "https://boards.greenhouse.io/intercom/jobs/1888872",
+    "securitytxt_url": "https://app.intercom.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.mu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.mu/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:22Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.lu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.lu/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:24Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.kh",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.kh/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:27Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "basketball-reference.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://basketball-reference.com/security.txt",
+    "last_update": "2021-05-22T08:26:27Z",
+    "contact_url": "mailto:bugs_3@sports-reference.com"
+  },
+  {
+    "security_txt_domain": "wm.edu",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://wm.edu/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:28Z",
+    "contact_url": "support@wm.edu"
+  },
+  {
+    "security_txt_domain": "scotland.gov.uk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://scotland.gov.uk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:29Z",
+    "policy_url": "https://www.gov.scot/publications/vulnerability-disclosure-policy/",
+    "contact_url": "mailto:vulnerabilitydisclosures@gov.scot"
+  },
+  {
+    "security_txt_domain": "mikrotik.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://mikrotik.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:30Z",
+    "policy_url": "https://mikrotik.com/support",
+    "contact_url": "https://mikrotik.com/support",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "ck12.org",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ck12.org/security.txt",
+    "last_update": "2021-05-22T08:26:34Z",
+    "contact_url": "mailto:secuirty@ck12.org",
+    "hiring": "https://www.ck12info.org/careers/"
+  },
+  {
+    "security_txt_domain": "uni-mainz.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "http://uni-mainz.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:37Z",
+    "contact_url": "mailto:it-sicherheit@uni-mainz.de",
+    "securitytxt_url": "https://www.uni-mainz.de/.well-known/security.txt",
+    "preferred_languages": "de,en"
+  },
+  {
+    "security_txt_domain": "google.com.lb",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.lb/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:39Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.cm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:39Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "johnlewis.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://johnlewis.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:39Z",
+    "policy_url": "https://hackerone.com/john_lewis",
+    "contact_url": "https://hackerone.com/john_lewis",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.co.ke",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.ke/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:40Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.ni",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ni/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:40Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ge",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ge/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:43Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "brides.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://brides.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:44Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.com.bh",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.bh/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:44Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.mn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.mn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:46Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.et",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.et/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.cat",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cat/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "gemius.pl",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://gemius.pl/security.txt",
+    "last_update": "2021-05-22T08:26:52Z",
+    "contact_url": "security@gemius.com"
+  },
+  {
+    "security_txt_domain": "google.hn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.hn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:53Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.om",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.om/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:53Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ci",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ci/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:55Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.pr",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.pr/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:57Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.is",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.is/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:57Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.la",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.la/.well-known/security.txt",
+    "last_update": "2021-05-22T08:26:58Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "mydealz.de",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://mydealz.de/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:02Z",
+    "contact_url": "security@mydealz.de",
+    "securitytxt_url": "https://www.mydealz.de/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "opera-mini.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "http://opera-mini.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:02Z",
+    "policy_url": "https://security.opera.com/policy",
+    "contact_url": "https://security.opera.com",
+    "hall_of_fame": "https://security.opera.com/hall-of-fame"
+  },
+  {
+    "security_txt_domain": "google.com.mt",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.mt/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:03Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "leafly.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://leafly.com/security.txt",
+    "last_update": "2021-05-22T08:27:05Z",
+    "contact_url": "mailto:security@leafly.com"
+  },
+  {
+    "security_txt_domain": "google.cd",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cd/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:06Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.li",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.li/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:13Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.as",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.as/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:14Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.pa",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.pa/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:17Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "onepeloton.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://onepeloton.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:20Z",
+    "policy_url": "https://support.onepeloton.com/hc/en-us/articles/360024551291-Security-Compliance",
+    "contact_url": "mailto:vulnerability.disclosure@onepeloton.com",
+    "pgp_key": "http://pgp.rediris.es:11371/pks/lookup?op=vindex\u0026search=0x3DDE0F3230387022"
+  },
+  {
+    "security_txt_domain": "google.am",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.am/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:21Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "michelin.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://michelin.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:22Z",
+    "contact_url": "cert@michelin.com",
+    "hall_of_fame": "cert.michelin.com",
+    "pgp_key": "cert.michelin.com",
+    "hiring": "careers.michelin.com"
+  },
+  {
+    "security_txt_domain": "google.co.ug",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.ug/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:22Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.jm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.jm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:23Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.bw",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.bw/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:23Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ad",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ad/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:24Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "pandadoc.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://pandadoc.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:26Z",
+    "contact_url": "mailto:security@pandadoc.com",
+    "hiring": "https://www.pandadoc.com/careers/"
+  },
+  {
+    "security_txt_domain": "google.bs",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.bs/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:27Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.mk",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.mk/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:28Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "fark.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://fark.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:29Z",
+    "contact_url": "https://www.fark.com/feedback/error"
+  },
+  {
+    "security_txt_domain": "winscp.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://winscp.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:29Z",
+    "contact_url": "security@winscp.net",
+    "securitytxt_url": "https://winscp.net/.well-known/security.txt"
+  },
+  {
+    "security_txt_domain": "ckeditor.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ckeditor.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:29Z",
+    "contact_url": "mailto:security@cksource.com",
+    "securitytxt_url": "https://ckeditor.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "verywellfamily.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://verywellfamily.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:31Z",
+    "contact_url": "mailto:security@dotdash.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.bi",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.bi/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:31Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.gh",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.gh/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:31Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.sn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.sn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:33Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "clickmeeting.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://clickmeeting.com/security.txt",
+    "last_update": "2021-05-22T08:27:33Z",
+    "contact_url": "mailto:security@clickmeeting.com"
+  },
+  {
+    "security_txt_domain": "google.com.cy",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.cy/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:34Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.mz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.mz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:35Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.mg",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.mg/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:35Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.ag",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ag/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:35Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.af",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.af/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:36Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "videohive.net",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://videohive.net/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:37Z",
+    "policy_url": "https://webuild.envato.com/helpful-hacker/",
+    "contact_url": "https://help.market.envato.com/hc/en-us/requests/new?ticket_form_id=38490",
+    "pgp_key": "https://webuild.envato.com/pgp.txt"
+  },
+  {
+    "security_txt_domain": "google.com.bn",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.bn/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:38Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.na",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.na/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:39Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "grabtaxi.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "http://grabtaxi.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:40Z",
+    "policy_url": "https://hackerone.com/grab?view_policy=true",
+    "contact_url": "https://hackerone.com/grab",
+    "hall_of_fame": "https://hackerone.com/grab/thanks"
+  },
+  {
+    "security_txt_domain": "google.com.ai",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.ai/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:40Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "daveramsey.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://daveramsey.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:41Z",
+    "contact_url": "mailto:security_awareness@daveramsey.com"
+  },
+  {
+    "security_txt_domain": "ubnt.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://ubnt.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:42Z",
+    "policy_url": "https://ui.com/security/",
+    "contact_url": "security@ui.com",
+    "pgp_key": "https://ui.com/support/security-rewards/pgp-key/"
+  },
+  {
+    "security_txt_domain": "23andme.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://23andme.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:44Z",
+    "policy_url": "https://www.23andme.com/security-report/",
+    "contact_url": "https://www.23andme.com/security-report/",
+    "hiring": "https://www.23andme.com/careers/"
+  },
+  {
+    "security_txt_domain": "google.fm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.fm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:46Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.ck",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.ck/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:47Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "socialbakers.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://socialbakers.com/security.txt",
+    "last_update": "2021-05-22T08:27:48Z",
+    "contact_url": "security@socialbakers.com"
+  },
+  {
+    "security_txt_domain": "google.al",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.al/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.com.bz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.com.bz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ps",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ps/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.cg",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.cg/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:48Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.tt",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.tt/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:50Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "hotukdeals.com",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://hotukdeals.com/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:51Z",
+    "contact_url": "security@hotukdeals.com",
+    "securitytxt_url": "https://www.hotukdeals.com/.well-known/security.txt",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "google.dm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.dm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:51Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.kg",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.kg/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:55Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.zm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.zm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:55Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "hs.fi",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://hs.fi/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:56Z",
+    "contact_url": "mailto:cert@sanoma.com",
+    "preferred_languages": "en"
+  },
+  {
+    "security_txt_domain": "blogspot.be",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://blogspot.be/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:56Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.sh",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.sh/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:57Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.co.uz",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.co.uz/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:59Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.ht",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.ht/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:59Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.bt",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.bt/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:59Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  },
+  {
+    "security_txt_domain": "google.tm",
+    "source": "diosts-v0.2.0",
+    "retrieval_url": "https://google.tm/.well-known/security.txt",
+    "last_update": "2021-05-22T08:27:59Z",
+    "policy_url": "https://g.co/vrp",
+    "contact_url": "https://g.co/vulnz",
+    "hall_of_fame": "https://bughunter.withgoogle.com/",
+    "pgp_key": "https://services.google.com/corporate/publickey.txt",
+    "hiring": "https://g.co/SecurityPrivacyEngJobs"
+  }
